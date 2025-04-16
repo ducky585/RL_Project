@@ -1,0 +1,19 @@
+Summary of Total Rewards and Episode Lengths:
+
+Hopper-v4:
+PPO: Average Total Reward: 632.10, Reward Variance: 90231.02, Average Episode Length: 239.4, Episode Length Variance: 16597.84
+REINFORCE: Average Total Reward: 504.83, Reward Variance: 13128.69, Average Episode Length: 175.0, Episode Length Variance: 617.20
+A2C: Average Total Reward: 111.08, Reward Variance: 9948.88, Average Episode Length: 58.4, Episode Length Variance: 2062.24
+DDPG: Average Total Reward: 616.87, Reward Variance: 146271.59, Average Episode Length: 499.4, Episode Length Variance: 171629.44
+
+HalfCheetah-v4:
+PPO: Average Total Reward: -50.73, Reward Variance: 1486.73, Average Episode Length: 1000.0, Episode Length Variance: 0.00
+REINFORCE: Average Total Reward: -82.02, Reward Variance: 14863.93, Average Episode Length: 1000.0, Episode Length Variance: 0.00
+A2C: Average Total Reward: 389.17, Reward Variance: 61860.03, Average Episode Length: 1000.0, Episode Length Variance: 0.00
+DDPG: Average Total Reward: 2172.13, Reward Variance: 1807583.00, Average Episode Length: 1000.0, Episode Length Variance: 0.00
+
+Walker2d-v4:
+PPO: Average Total Reward: 259.03, Reward Variance: 8895.97, Average Episode Length: 181.2, Episode Length Variance: 1307.36
+REINFORCE: Average Total Reward: 327.24, Reward Variance: 1216.82, Average Episode Length: 193.2, Episode Length Variance: 611.36
+A2C: Average Total Reward: 147.68, Reward Variance: 8054.56, Average Episode Length: 137.4, Episode Length Variance: 1613.84
+DDPG: Average Total Reward: 211.52, Reward Variance: 23173.37, Average Episode Length: 145.2, Episode Length Variance: 2539.76
